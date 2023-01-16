@@ -1,2 +1,1 @@
-db.produtos.deleteMany({ curtidas: { $lt: 50 } });
-db.produtos.find({ }, { _id: 0, nome: 1 });
+db.produtos.find({ "valoresNutricionais.0.quantidade": { $lt: 500 } }, { _id: 0, nome: 1 });
