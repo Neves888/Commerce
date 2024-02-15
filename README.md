@@ -22,7 +22,7 @@ Neste projeto, você terá a oportunidade de trabalhar com um banco de dados Mon
 3. Implemente melhorias ou correções.
 4. Envie um pull request com uma descrição clara das alterações propostas.
 
-## Agradecimentos
+## Agradecimentos 🙇🏾‍♀️
 
 Agradecemos por considerar contribuir para este projeto! Sua participação é fundamental para o seu desenvolvimento e aprimoramento.
 
